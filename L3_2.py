@@ -18,5 +18,5 @@ for j in range(3):
 # print(responses_new[2][1])  
 # print(responses_new[0][2])
 # print(responses_new[1][2])
-# print(responses_new[2][2])
+
 
